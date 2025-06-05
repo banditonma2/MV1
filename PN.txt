@@ -1,19 +1,92 @@
 {
-"name":"ดูหนังกัน",
-"author":"",
-"info": "เพื่อความบันเทิงนะคร้าบ",
-"image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/692015833/android/sticker.png",
-"url": "https://www.dropbox.com/scl/fi/m3u3rfhtzuil60b5pmnm8/MainIndex.txt.w3u?rlkey=5b769kvj4c4snpsffrn7u9lqu&raw=1",
+"name": "พี่แนน",
+"image": "https://stickershop.line-scdn.net/stickershop/v1/sticker/776446049/android/sticker.png",
+author		: "update 05/06/2025",
+"url": "https://raw.githubusercontent.com/banditonma2/MV1/refs/heads/main/PN.txt",
 "groups": [
-{
-"name":"พี่แนน",
-"image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/776446049/android/sticker.png",
-"url":"https://raw.githubusercontent.com/BanditDid/Ban/main/EntertainmentV2/1.Movie.txt",
-"referer":"",
-"import":"false",
-"info":""
-}
+
+
+
+
+
+{"name": "Be Passionately in Love (2025) ห้วงรักของฉันและเธอ",
+"image": "https://seriesdet.com/wp-content/uploads/2025/05/Be-Passionately-in-Love.webp",
+"stations":[
+{"name":"EP 1","https://seriesdet.com/wp-content/uploads/2025/05/Be-Passionately-in-Love.webp",
+"url": "https://main.24playerhd.com/newplaylist/7a850fc56ab20a78d4f40c76/7a850fc56ab20a78d4f40c76.m3u8",
+"playInNatPlayer": "true","referer": "https://www.123-hdd.com/"},
+
+{"name":"EP 2","https://seriesdet.com/wp-content/uploads/2025/05/Be-Passionately-in-Love.webp",
+"url": "https://main.24playerhd.com/newplaylist/d1b58e97066531a16974defc/d1b58e97066531a16974defc.m3u8",
+"playInNatPlayer": "true","referer": "https://www.123-hdd.com/"},
+
+{"name":"EP 3","https://seriesdet.com/wp-content/uploads/2025/05/Be-Passionately-in-Love.webp",
+"url": "https://main.24playerhd.com/newplaylist/80e1c6f158fe403803443eec/80e1c6f158fe403803443eec.m3u8",
+"playInNatPlayer": "true","referer": "https://www.123-hdd.com/"},
+
+{"name":"EP 4","https://seriesdet.com/wp-content/uploads/2025/05/Be-Passionately-in-Love.webp",
+"url": "https://main.24playerhd.com/newplaylist/aa325fb728cf34315a02e0af/aa325fb728cf34315a02e0af.m3u8",
+"playInNatPlayer": "true","referer": "https://www.123-hdd.com/"},
+
+{"name":"EP 5","https://seriesdet.com/wp-content/uploads/2025/05/Be-Passionately-in-Love.webp",
+"url": "xxxx",
+"playInNatPlayer": "true","referer": "https://www.123-hdd.com/"},
+
+{"name":"EP 6","https://seriesdet.com/wp-content/uploads/2025/05/Be-Passionately-in-Love.webp",
+"url": "xxxx",
+"playInNatPlayer": "true","referer": "https://www.123-hdd.com/"},
+
+{"name":"EP 7","https://seriesdet.com/wp-content/uploads/2025/05/Be-Passionately-in-Love.webp",
+"url": "xxxx",
+"playInNatPlayer": "true","referer": "https://www.123-hdd.com/"},
+
+{"name":"EP 8","https://seriesdet.com/wp-content/uploads/2025/05/Be-Passionately-in-Love.webp",
+"url": "xxxx",
+"playInNatPlayer": "true","referer": "https://www.123-hdd.com/"},
+
+{"name":"EP 9","https://seriesdet.com/wp-content/uploads/2025/05/Be-Passionately-in-Love.webp",
+"url": "xxxx",
+"playInNatPlayer": "true","referer": "https://www.123-hdd.com/"},
+
+{"name":"EP 10","https://seriesdet.com/wp-content/uploads/2025/05/Be-Passionately-in-Love.webp",
+"url": "xxxx",
+"playInNatPlayer": "true","referer": "https://www.123-hdd.com/"},
+
+{"name":"EP 11","https://seriesdet.com/wp-content/uploads/2025/05/Be-Passionately-in-Love.webp",
+"url": "xxxx",
+"playInNatPlayer": "true","referer": "https://www.123-hdd.com/"},
+
+{"name":"EP 12","https://seriesdet.com/wp-content/uploads/2025/05/Be-Passionately-in-Love.webp",
+"url": "xxxx",
+"playInNatPlayer": "true","referer": "https://www.123-hdd.com/"},
+
+{"name":"EP 13","https://seriesdet.com/wp-content/uploads/2025/05/Be-Passionately-in-Love.webp",
+"url": "xxxx",
+"playInNatPlayer": "true","referer": "https://www.123-hdd.com/"},
+
+{"name":"EP 14","https://seriesdet.com/wp-content/uploads/2025/05/Be-Passionately-in-Love.webp",
+"url": "xxxx",
+"playInNatPlayer": "true","referer": "https://www.123-hdd.com/"},
+
+{"name":"EP 15","https://seriesdet.com/wp-content/uploads/2025/05/Be-Passionately-in-Love.webp",
+"url": "xxxx",
+"playInNatPlayer": "true","referer": "https://www.123-hdd.com/"},
+
+{"name":"EP 16","https://seriesdet.com/wp-content/uploads/2025/05/Be-Passionately-in-Love.webp",
+"url": "xxxx",
+"playInNatPlayer": "true","referer": "https://www.123-hdd.com/"},
+
+]},
+
+
+
+
 
 ]}
-]
-}
+
+
+
+
+
+
+

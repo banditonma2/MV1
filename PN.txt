@@ -72,7 +72,7 @@ author		: "update 05/06/2025",
 "url": "https://main.24playerhd.com/newplaylist/4f32acfb58252de201bf05b0/4f32acfb58252de201bf05b0.m3u8",
 "playInNatPlayer": "true","referer": "https://www.123-hdd.com/"},
 
-{"name":"EP 16","image": "https://seriesdet.com/wp-content/uploads/2025/05/Be-Passionately-in-Love.webp",
+{"name":"EP 16 ตอนจบ","image": "https://seriesdet.com/wp-content/uploads/2025/05/Be-Passionately-in-Love.webp",
 "url": "https://main.24playerhd.com/newplaylist/acb7de9638636a58bc267ce9/acb7de9638636a58bc267ce9.m3u8",
 "playInNatPlayer": "true","referer": "https://www.123-hdd.com/"},
 

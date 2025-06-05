@@ -1,0 +1,19 @@
+{
+"name":"ดูหนังกัน",
+"author":"",
+"info": "เพื่อความบันเทิงนะคร้าบ",
+"image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/692015833/android/sticker.png",
+"url": "https://www.dropbox.com/scl/fi/m3u3rfhtzuil60b5pmnm8/MainIndex.txt.w3u?rlkey=5b769kvj4c4snpsffrn7u9lqu&raw=1",
+"groups": [
+{
+"name":"พี่แนน",
+"image":"https://stickershop.line-scdn.net/stickershop/v1/sticker/776446049/android/sticker.png",
+"url":"https://raw.githubusercontent.com/banditonma2/MV1/refs/heads/main/PN.txt",
+"referer":"",
+"import":"false",
+"info":""
+}
+
+]}
+]
+}
